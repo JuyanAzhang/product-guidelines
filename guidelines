@@ -21,9 +21,9 @@ GUIDELINES:
 
 4. Anything that’s buried will seemingly not exist to the majority of users (aka buried in settings)
 
-6. Avoid putting (important) functionality behind non-obvious gestures. 
+6. Avoid putting functionality behind non-obvious gestures. 
 
-6. The maximum number of options you should present a user is two.
+6. The maximum number of options you should present a user in a flow is two.
 
 16. Use gradients sparingly. Less is more.
 
@@ -35,8 +35,10 @@ GUIDELINES:
 
 18. There shouldn't be large amounts of static text in your product. 
 
-20. If an action isn't being visually advertised to a user, don't expect them to perform it often, if ever.
+20. The more visually obvious the result of an action is, the more users will be reminded to perform it. Visual real estate is the most expensive real estate. 
 
 21. Always be minimizing the necessary clicks to get to important functionality
 
 1. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
+
+2. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
