@@ -42,3 +42,8 @@ GUIDELINES:
 1. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
 
 2. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
+
+22. Interfaces should follow the principle of least astonishment. They should be highly predictable. 
+
+23. All buttons should look like buttons, and they use everything they can, visually, to allow users to predict what they do and that they are a button. 
+
