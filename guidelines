@@ -1,5 +1,5 @@
 
-First, three timeless aphorisms that are the pillars behind everything on this list:
+First, the three pillars behind everything on this list:
 
 Only simple products last. 
 
@@ -8,42 +8,40 @@ Convenience always wins.
 Don't make me think.
 
 
-Of course, these are guidelines. They aren't the answer 100% of the time. But, exceptions are surprisingly rare.
-Wherever and whenever possible try to stick to them. They will make your life easier and product more successful.
--Juyan
+Of course, these are just guidelines. They aren't the answer 100% of the time, but exceptions are surprisingly rare.
+Wherever and whenever possible, try to stick to them. They will make your life easier and product more successful.
+
 
 GUIDELINES:
 
 
-3. Avoid unnecessarily renaming actions that already have established naming conventions.
+1. Avoid unnecessarily renaming actions that already have established naming conventions.
 
-4. Each screen of your product should be designed to funnel users to perform *one* key action.
+2. Each screen of your product should be designed to funnel users to perform *one* key action.
 
-4. Anything that’s buried will seemingly not exist to the majority of users (aka buried in settings)
+3. Anything that’s buried will seemingly not exist to the majority of users (aka buried in settings)
 
-6. Avoid putting functionality behind non-obvious gestures. 
+4. The maximum number of options you should present a user in a flow is two.
 
-6. The maximum number of options you should present a user in a flow is two.
+5. Use gradients sparingly. Less is more.
 
-16. Use gradients sparingly. Less is more.
+6. People don't read your educational on-boarding slides. 
 
-16. Only ask for what's absolutely necessary during onboarding.
+7. Contrast is key: colors, weights, sizes. 
 
-17. People don't read your educational on-boarding slides. 
+8. There shouldn't ever be large amounts of static text in your product. Minimize words relentlessly. 
 
-17. Contrast is key: colors, weights, sizes. 
+9. The more visually obvious the result of an action is, the more users will be reminded to perform it. Visual real estate is the most expensive real estate. 
 
-18. There shouldn't be large amounts of static text in your product. 
+10. Always be minimizing the necessary clicks to get to important functionality. Take out clicks relentlessy. 
 
-20. The more visually obvious the result of an action is, the more users will be reminded to perform it. Visual real estate is the most expensive real estate. 
+11. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
 
-21. Always be minimizing the necessary clicks to get to important functionality
+12. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
 
-1. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
+13. Interfaces should follow the principle of least astonishment. They should be highly predictable. 
 
-2. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
+14. Buttons should look like buttons. 
 
-22. Interfaces should follow the principle of least astonishment. They should be highly predictable. 
-
-23. All buttons should look like buttons, and they use everything they can, visually, to allow users to predict what they do and that they are a button. 
+15. Consistency is the cornerstone to intuitiveness. If your product changes based on conditions or isn't consistent, it won't make sense. 
 
