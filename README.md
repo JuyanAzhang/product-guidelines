@@ -1,7 +1,7 @@
 # product-guidelines
 A collection of product guidelines:
 
-1. Learned the hard way.
+1. Learned through direct experience.
 2. Designed to stand the test of time. 
 3. Structured to be easy to follow and implement.
 
