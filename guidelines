@@ -1,25 +1,25 @@
 
-First, the three pillars behind everything on this list:
+The three tenants behind this list:
 
-Only simple products last. 
+- Only simple products last. 
 
-Convenience always wins.
+- Convenience always wins.
 
-Don't make me think.
+- Don't make me think.
 
 
-Of course, these are just guidelines. They aren't the answer 100% of the time, but exceptions are surprisingly rare.
-Wherever and whenever possible, try to stick to them. They will make your life easier and product more successful.
+Remember, these are just guidelines. They aren't the answer 100% of the time, but exceptions are surprisingly rare.
+Try to stick to them, they'll make your life easier and product more successful.
 
 
 GUIDELINES:
 
 
-1. Avoid unnecessarily renaming actions that already have established naming conventions.
+1. More than anything, users want control. 
 
-2. Each screen of your product should be designed to funnel users to perform *one* key action.
+2. Avoid unnecessarily renaming actions that already have established naming conventions.
 
-3. Anything that’s buried will seemingly not exist to the majority of users (aka buried in settings)
+3. Try not to bury important things, especially if you have to put them in the settings.
 
 4. The maximum number of options you should present a user in a flow is two.
 
@@ -31,7 +31,7 @@ GUIDELINES:
 
 8. There shouldn't ever be large amounts of static text in your product. Minimize words relentlessly. 
 
-9. The more visually obvious the result of an action is, the more users will be reminded to perform it. Visual real estate is the most expensive real estate. 
+9. The more visually obvious the result of an action is, the more users will be reminded to perform it. Get things into plain sight.
 
 10. Always be minimizing the necessary clicks to get to important functionality. Take out clicks relentlessy. 
 
@@ -39,7 +39,7 @@ GUIDELINES:
 
 12. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
 
-13. Interfaces should follow the principle of least astonishment. They should be highly predictable. 
+13. Interfaces should follow the principle of least astonishment. They should be highly predictable. Users should never be surprised. 
 
 14. Buttons should look like buttons. 
 
