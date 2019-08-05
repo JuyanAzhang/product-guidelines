@@ -1,19 +1,19 @@
-Guidelines for the people looking to build successful, truly amazing products. 
+Guidelines for product people.
 
 
-1. If it requires any explanation, you've got work to do.
+1. If it requires an explanation, you've got work to do.
 
 2. Tool tips should be a luxury, not a necessity. 
 
-3. Pay closest attention to disconfirming evidence, disconfirming feedback.
+3. Pay closest attention to disconfirming evidence.
 
-4. Opt-out functionality is very powerful but very dangerous. Use it sparingly. Opt-in is preferred b/c it affords users more control.
+4. Opt-out functionality is powerful, but dangerous. Use it sparingly. Opt-in is preferred b/c it affords users more control.
 
 5. Design your product based on what users are most likely to do, not what they should do (these are usually very different).
 
 6. The best products make users feel *powerful*.
 
-7. You should prioritize features based on how powerful they make users feel. 
+7. More than anything, users want control. Control over the interface, control over their life, control over their time. 
 
 8. Building great products requires an inordinate amount of focus: saying no to 99/100 great ideas.
 
@@ -27,6 +27,7 @@ Guidelines for the people looking to build successful, truly amazing products.
 
 13. Investing in delight can pay dividends, particularly in areas that users visit often. 
 
-14. Focus maniacally on intuitiveness. After your product is intuitive, only then should you focus on versatility by adding preferences. 
+14. Focus maniacally on intuitiveness. Don't even think about anything else until it is. 
 
-15. Run lots of experiments. The closer you can get to the real thing the better - MVPs, functional prototypes, etc. Easier to falsify your assumptions.
+15. Run lots of experiments. The closer you can get to the real thing, the better - MVPs, functional prototypes, etc. Easier to falsify your assumptions.
+
