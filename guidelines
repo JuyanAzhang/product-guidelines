@@ -8,40 +8,38 @@ The three tenants behind this list:
 - Don't make me think.
 
 
-Remember, these are just guidelines. They aren't the answer 100% of the time, but exceptions are surprisingly rare.
-Try to stick to them, they'll make your life easier and product more successful.
+These are just guidelines. They aren't the answer 100% of the time, but exceptions are surprisingly rare.
 
 
 GUIDELINES:
 
 
-1. More than anything, users want control. 
 
-2. Avoid unnecessarily renaming actions that already have established naming conventions.
+1. Avoid unnecessarily renaming actions that already have established naming conventions.
 
-3. Try not to bury important things, especially if you have to put them in the settings.
+2. Try not to bury important things, especially if you have to put them in the settings.
 
-4. The maximum number of options you should present a user in a flow is two.
+3. The maximum number of options you should present a user in a flow is two.
 
-5. Use gradients sparingly. Less is more.
+4. Use gradients sparingly. Less is more.
 
-6. People don't read your educational on-boarding slides. 
+5. People don't read your educational on-boarding slides. 
 
-7. Contrast is key: colors, weights, sizes. 
+6. Contrast is key: colors, weights, sizes. 
 
-8. There shouldn't ever be large amounts of static text in your product. Minimize words relentlessly. 
+7. There shouldn't ever be large amounts of static text in your product. Minimize words relentlessly. 
 
-9. The more visually obvious the result of an action is, the more users will be reminded to perform it. Get things into plain sight.
+8. The more visually obvious the result of an action is, the more users will be reminded to perform it. Get things into plain sight.
 
-10. Always be minimizing the necessary clicks to get to important functionality. Take out clicks relentlessy. 
+9. Always be minimizing the necessary clicks to get to important functionality. Take out clicks relentlessy. 
 
-11. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
+10. Buttons that are not standard will most likly have low engagement, making them difficult to build behavior around.
 
-12. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
+11. Avoid jarring animations and interfaces that move unexpectedly, espcially if outside of the user's control. 
 
-13. Interfaces should follow the principle of least astonishment. They should be highly predictable. Users should never be surprised. 
+12. Interfaces should follow the principle of least astonishment. They should be highly predictable. Users should never be surprised. 
 
-14. Buttons should look like buttons. 
+13. Buttons should look like buttons. 
 
-15. Consistency is the cornerstone to intuitiveness. The more conditional your product is, the less sense it makes.
+14. Consistency is the cornerstone to intuitiveness. The more conditional your product is, the less sense it makes.
 
