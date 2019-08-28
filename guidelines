@@ -43,5 +43,5 @@ GUIDELINES:
 
 14. Consistency is the cornerstone to intuitiveness. The more conditional your product is, the less sense it makes.
 
-15. Try not to introduce features, buttons, UI that introduces more questions than answers. It should net-answer positive.
+15. UI elements should introduce more new answers than new questions. Not the opposite. 
 
